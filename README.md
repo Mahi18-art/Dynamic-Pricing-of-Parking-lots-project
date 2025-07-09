@@ -16,7 +16,8 @@ This project builds a real-time pricing engine for 14 urban parking lots using h
 ---
 
 ##  Architecture Diagram
-![Demo Screenshot](C:\Users\Mahi Garg\Downloads\flow chart.png)
+![flow chart](https://github.com/user-attachments/assets/944a3717-5344-4c5a-87c9-2bed4972eabf)
+
 
 ---
 ##  Architecture Explanation & Workflow
